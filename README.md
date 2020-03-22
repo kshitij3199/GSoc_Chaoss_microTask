@@ -20,3 +20,8 @@ Set up a dev environment to work on GrimoireLab.
 
 Have a look to https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pycharm-dev-environment.
 
+# Microtask 5:
+Execute micro-mordred to collect and enrich data from any Git repository.
+
+
+
