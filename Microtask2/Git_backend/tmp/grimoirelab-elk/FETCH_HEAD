@@ -1,0 +1,5 @@
+416bcbfea400f25ce518d8e65e612cd194277c9f		branch 'GeorgLink-patch-1' of https://github.com/chaoss/grimoirelab-elk
+297dcdc7499e172cafd4ccae0390235503411d80		branch 'alpgarcia-add-mising-cell' of https://github.com/chaoss/grimoirelab-elk
+73e5e93faec467bd6d867b804c4a0b7106ad67cf		branch 'jgbarah-patch-1' of https://github.com/chaoss/grimoirelab-elk
+81c490e15954fbc48e07477c576665fc80340fc2		branch 'master' of https://github.com/chaoss/grimoirelab-elk
+9c68836cfad4f7893f35a4b851e9ae20520f73e2		branch 'revert-559-update-git-refs' of https://github.com/chaoss/grimoirelab-elk
