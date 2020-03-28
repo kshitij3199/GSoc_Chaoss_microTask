@@ -1,4 +1,4 @@
-chaoss-microtasks 
+# Chaoss-Microtasks 
 
 Microtasks for GSoC Idea: Boosting data processing in GrimoireLab
 
@@ -26,4 +26,7 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 
 The Task can be found here
 
+# Microtask 10:
+Submit a PR to ELK to increase the test coverage of one or more files located at https://github.com/chaoss/grimoirelab-elk/tree/master/grimoire_elk/enriched
 
+The Task can be found here
