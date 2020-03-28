@@ -21,5 +21,9 @@ Have a look to https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pyc
 # Microtask 5:
 Execute micro-mordred to collect and enrich data from any Git repository.
 
+# Microtask 9:
+Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc.
+
+The Task can be found here
 
 
