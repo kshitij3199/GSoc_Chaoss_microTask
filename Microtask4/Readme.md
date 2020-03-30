@@ -20,10 +20,10 @@ In order to add a remote to a Git repository, you can use the following command:
 ~/sources/perceval$ git remote add upstream https://github.com/chaoss/grimoirelab-perceval
 ```
 
-Step 3:-To install the dependencies, you can click on ```File -> Settings -> Project -> Project Interpreter```, and then the ```+``` located on the top right corner (see figure below).
-
+Step 2:-To install the dependencies, you can click on ```File -> Settings -> Project -> Project Interpreter```, and then the ```+``` located on the top right corner (see figure below).
+![alt_test](m4.png)
 Later, you can add the dependencies to the grimoirelab components via ```File -> Settings -> Project -> Project Structure```. The final results should be something similar to the image below.
+![alt_test](m4_2.png)
+#### Step 3 :- Create docker-compose.yml file as present [here](https://github.com/kshitij3199/GSoc_Chaoss_microTask/blob/master/Microtask4/docker-compose.yml)
 
-Step 4 :- Create docker-compose.yml file as present [here](https://github.com/kshitij3199/GSoc_Chaoss_microTask/blob/master/Microtask4/docker-compose.yml)
-
-Step 5 :- Run ```docker-compose up -d``` to get ElasticSearch, Kibiter and MariaDB.
+#### Step 4 :- Run ```docker-compose up -d``` to get ElasticSearch, Kibiter and MariaDB.
