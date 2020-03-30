@@ -10,8 +10,8 @@ Step 1:-The first step consists in forking the GitHub [repos](https://github.com
 Each local repo should have two ```remotes: origin``` points to the forked repo, while ```upstream``` points to the original CHAOSS repo. An example is provided below
 ```
 ~/sources/perceval$ git remote -v
-origin	https://github.com/valeriocos/perceval (fetch)
-origin	https://github.com/valeriocos/perceval (push)
+origin	https://github.com/kshitij3199/perceval (fetch)
+origin	https://github.com/kshitij/perceval (push)
 upstream	https://github.com/chaoss/grimoirelab-perceval (fetch)
 upstream	https://github.com/chaoss/grimoirelab-perceval (push)
 ```
@@ -19,8 +19,6 @@ In order to add a remote to a Git repository, you can use the following command:
 ```
 ~/sources/perceval$ git remote add upstream https://github.com/chaoss/grimoirelab-perceval
 ```
-
-Step 2:- Download the [PyCharm community edition](https://www.jetbrains.com/pycharm/download/#section=linux),
 
 Step 3:-To install the dependencies, you can click on ```File -> Settings -> Project -> Project Interpreter```, and then the ```+``` located on the top right corner (see figure below).
 
