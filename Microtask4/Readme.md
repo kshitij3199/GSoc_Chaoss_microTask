@@ -5,7 +5,7 @@ Have a look to https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pyc
 
 Solution/Method
 
-Step 1:-The first step consists in forking the GitHub [repos](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/Getting-Started.md#source-code-) and cloning them to a target local folder (e.g.,```sources```).
+#### Step 1:-Fork the following [repos](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/Getting-Started.md#source-code-) and cloning them to a target local folder (e.g.,```sources```).
 
 Each local repo should have two ```remotes: origin``` points to the forked repo, while ```upstream``` points to the original CHAOSS repo. An example is provided below
 ```
