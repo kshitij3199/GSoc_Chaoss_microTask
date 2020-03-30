@@ -8,7 +8,7 @@ After downloading and installing Pycharm in Microtask 0. Its time for setting up
 
 Step 1) Fork grimoirelab-perceval Repository.(Later helps when want to send Pull Request to orgranization) 
 
-Step 2) Clone the fork repository and open it using Pycharm.
+Step 2) Clone the repository and open it using Pycharm.
 
 Step 3) Edit the Run/Debug configuration with the following configuration
 
