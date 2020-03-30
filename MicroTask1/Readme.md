@@ -17,3 +17,10 @@ Script path: as bin/perceval from the project Repositor.
 Parameters: as the required perceval parameter
 
 Apply the changes & Run the script.
+
+## Demo:
+I am using git backend and retriving data from repo https://github.com/kshitij3199/DSA_LAB from data 1/1/2020 to 10/3/2020
+
+![](m1_final.gif)
+
+
