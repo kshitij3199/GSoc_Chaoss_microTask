@@ -2,6 +2,9 @@
 
 Microtasks for GSoC Idea: Boosting data processing in GrimoireLab
 
+# Microtask 0:
+Download PyCharm and get familiar with it 
+
 # Microtask 1:
 
 Task: Set up Perceval to be executed from PyCharm. 
