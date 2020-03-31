@@ -20,3 +20,6 @@ Step 2)
 Step 3) 
 
 - Move to directory were test are present by ```cd <path-to-ELK>/tests```
+
+Step 4) 
+- The full battery of tests can be executed with run_tests.py. However, it is also possible to execute a sub-set of tests by running the single test files (test_* files in the tests folder)
