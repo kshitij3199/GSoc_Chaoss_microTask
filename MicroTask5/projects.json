@@ -1,0 +1,17 @@
+
+{
+  "matrix-react-sdk": {
+      "git": [
+          "https://github.com/matrix-org/matrix-react-sdk.git"
+      ],
+      "github": [
+          "https://github.com/matrix-org/matrix-react-sdk"
+      ],
+      "github:pull": [
+          "https://github.com/matrix-org/matrix-react-sdk"
+      ],
+      "github:repo": [
+          "https://github.com/matrix-org/matrix-react-sdk"
+      ]
+  }
+}
