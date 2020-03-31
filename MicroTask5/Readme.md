@@ -12,6 +12,9 @@ Step 3) Execute the micro.py file by following commands
 
 ```python3 micro.py --raw --enrich --panels --cfg ./setup.cfg --backends git```
 
+ ```--panels``` Results in creation of dashboards for visulaisation.
+ If you dont want it (as not ask in objective, run the command without ```--panels```
+
 # My files
 [projects.json](projects.json)
 
