@@ -44,3 +44,16 @@ Step 4)
 
 Step 5) 
 - The full battery of tests can be executed with run_tests.py. However, it is also possible to execute a sub-set of tests by running the single test files (test_* files in the tests folder)
+
+For running a single test, use the following command
+- ```python3 -m coverage run <test_filename>```
+- For example to run test_git.py use```python3 -m coverage run tests_git.py```
+
+For running all test, use the following command
+- ```python3 -m coverage run run_tests.py```
+
+For seeing the convergence report, use the following command
+- ```python3 -m coverage report -m --include=*grimoire_elk*```
+-  the param --include=*grimoire_elk* allows to report on the test coverage for the code inside the grimoire_elk package.
+
+
