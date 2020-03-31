@@ -13,5 +13,13 @@ Step 3) Execute the micro.py file by following commands
 ```python3 micro.py --raw --enrich --panels --cfg ./setup.cfg --backends git```
 
 # My files
+[projects.json](projects.json)
+
+[setup.cfg](setup.cfg)
 
 # Demo
+
+I have used Matrix-react-sdk as a Git repository https://github.com/matrix-org/matrix-react-sdk.git 
+(In last year intern, worked on Matrix client based application Riot which uses this)
+
+![m5.gif](m5.gif)
