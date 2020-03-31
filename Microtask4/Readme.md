@@ -27,3 +27,4 @@ Later, you can add the dependencies to the grimoirelab components via ```File ->
 #### Step 3 :- Create docker-compose.yml file as present [here](https://github.com/kshitij3199/GSoc_Chaoss_microTask/blob/master/Microtask4/docker-compose.yml)
 
 #### Step 4 :- Run ```docker-compose up -d``` to get ElasticSearch, Kibiter and MariaDB.
+![alt_gif](m4.gif)
